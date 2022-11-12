@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AkshanshChauhan/advocate_project.react.js/static/css/main.c875b04a.css",
-    "main.js": "/AkshanshChauhan/advocate_project.react.js/static/js/main.27c4e77c.js",
+    "main.css": "/AkshanshChauhan/advocate_project.react.js/static/css/main.502d699c.css",
+    "main.js": "/AkshanshChauhan/advocate_project.react.js/static/js/main.7cf273be.js",
     "static/js/787.bc595c74.chunk.js": "/AkshanshChauhan/advocate_project.react.js/static/js/787.bc595c74.chunk.js",
     "static/media/profileImage2.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/profileImage2.622c6b18f6364ac1b405baf942517169.svg",
     "static/media/homeBackground.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/homeBackground.fad81b68c12dd086197a.svg",
@@ -15,16 +15,17 @@
     "static/media/ourProcess4.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/ourProcess4.545254192564dfef4f670f5238f618a8.svg",
     "static/media/affidavit2.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/affidavit2.8b1a3ca81e9b3bec47e690bcc10e0213.svg",
     "static/media/ourProcess1.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/ourProcess1.e7cea8e1bd91ba4e93aab0651d2a68fe.svg",
+    "static/media/realReview.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/realReview.e42ef83bced2081ad07ed88e36c993b6.svg",
     "static/media/affidavit1.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/affidavit1.8bb50f794aaa565952ba353b2ae5ff54.svg",
     "static/media/heart.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/heart.faa1746db364a5d0520a.svg",
     "index.html": "/AkshanshChauhan/advocate_project.react.js/index.html",
     "static/media/affidavitArrow.svg": "/AkshanshChauhan/advocate_project.react.js/static/media/affidavitArrow.d540a62de45295f9374e6230b1da86f8.svg",
-    "main.c875b04a.css.map": "/AkshanshChauhan/advocate_project.react.js/static/css/main.c875b04a.css.map",
-    "main.27c4e77c.js.map": "/AkshanshChauhan/advocate_project.react.js/static/js/main.27c4e77c.js.map",
+    "main.502d699c.css.map": "/AkshanshChauhan/advocate_project.react.js/static/css/main.502d699c.css.map",
+    "main.7cf273be.js.map": "/AkshanshChauhan/advocate_project.react.js/static/js/main.7cf273be.js.map",
     "787.bc595c74.chunk.js.map": "/AkshanshChauhan/advocate_project.react.js/static/js/787.bc595c74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c875b04a.css",
-    "static/js/main.27c4e77c.js"
+    "static/css/main.502d699c.css",
+    "static/js/main.7cf273be.js"
   ]
 }
